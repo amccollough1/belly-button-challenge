@@ -15,3 +15,27 @@ Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hovertext for the chart.
 
 ![image](https://github.com/amccollough1/belly-button-challenge/assets/133404805/cbc7d466-40c0-4614-b71d-a4692ab5115f)
+
+
+Create a bubble chart that displays each sample.
+
+Use otu_ids for the x values.
+
+Use sample_values for the y values.
+
+Use sample_values for the marker size.
+
+Use otu_ids for the marker colors.
+
+Use otu_labels for the text values.
+
+
+![image](https://github.com/amccollough1/belly-button-challenge/assets/133404805/aaf7c3f1-9284-4ddd-8132-424332b50d97)
+
+Display the sample metadata, i.e., an individual's demographic information.
+
+Display each key-value pair from the metadata JSON object somewhere on the page.
+
+![image](https://github.com/amccollough1/belly-button-challenge/assets/133404805/00c0bbd0-7ae5-48c4-8398-9f7811d313a8)
+
+
